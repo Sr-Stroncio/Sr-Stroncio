@@ -8,6 +8,10 @@
   <br><br>
 </p>
 
+<br>
+
+<br>
+
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" align="center" width="220">
@@ -52,7 +56,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" height="3px" style="filter: hue-rotate(340deg) saturate(150%);" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%" height="3px" style="filter: hue-rotate(340deg) saturate(150%);" />
 </p>
 
 <h3 align="center">📊 Actividad</h3>
