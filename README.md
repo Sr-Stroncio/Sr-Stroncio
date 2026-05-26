@@ -8,10 +8,6 @@
   <br><br>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" height="3px" style="filter: hue-rotate(340deg) saturate(150%);" />
-</p>
-
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" align="center" width="220">
@@ -25,10 +21,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" height="3px" style="filter: hue-rotate(340deg) saturate(150%);" />
-</p>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
