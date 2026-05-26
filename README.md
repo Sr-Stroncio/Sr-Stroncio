@@ -27,8 +27,7 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top">
-      <h3>Tecnologías y Herramientas</h3>
-      
+      <h3>Tecnologías y Herramientas</h3>      
       <h4>Frontend</h4>
       <p align="left">
         <img src="https://img.shields.io/badge/HTML5-1e293b?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
@@ -36,13 +35,11 @@
         <img src="https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       </p>
-
       <h4>Backend y Datos</h4>
       <p align="left">
         <img src="https://img.shields.io/badge/PHP-1e293b?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
         <img src="https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=00758F" alt="MySQL" />
       </p>
-
       <h4>Enfoque Unity</h4>
       <p align="left">
         <img src="https://img.shields.io/badge/Unity-111?style=flat-square&logo=unity&logoColor=C00" alt="Unity" />
