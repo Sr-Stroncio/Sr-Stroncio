@@ -12,7 +12,7 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sr-Stroncio&show_icons=true&theme=highcontrast&hide_border=true&bg_color=111&title_color=C00&icon_color=C00&text_color=999" alt="Estadísticas Sr-Stroncio" />
     </td>
     <td valign="middle" align="center">
-      <img src="https://es.pinterest.com/pin/921338036288669657/" alt="Imagen Personal" style="height: 195px; width: auto; border-radius: 8px; border: 2px solid #C00; background-color: #111; padding: 5px;" />
+      <img src="https://i.pinimg.com/736x/f7/4d/70/f74d709e0780404a3adbd4255a256c40.jpg" alt="Imagen Personal" style="height: 195px; width: auto; border-radius: 8px; border: 2px solid #C00; background-color: #111; padding: 5px;" />
     </td>
   </tr>
 </table>
