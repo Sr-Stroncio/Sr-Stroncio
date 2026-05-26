@@ -42,13 +42,6 @@ Espacio personal dedicado al aprendizaje, la programación web y la experimentac
 
 ## Actividad
 
-Aquí puedes ver mi historial de contribuciones y proyectos directamente en la plataforma:
-
-<p align="left">
-  • <b>Contribuciones actuales:</b> Puedes consultar el calendario interactivo al final de esta página para ver el ritmo de mis proyectos personales.<br>
-  • <b>Repositorios:</b> En la pestaña <b>Repositories</b> encontrarás los entornos de prueba web y los primeros scripts que vaya subiendo de Unity.
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sr-Stroncio&show_icons=true&theme=gotham&hide_border=true" alt="Estadísticas de Sr-Stroncio" />
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/type=Waving&color=0B132B&height=60&section=footer" width="100%" />
-</div>
