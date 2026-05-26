@@ -38,14 +38,12 @@ Espacio personal dedicado al aprendizaje, la programación web y la experimentac
 
 ---
 
-## Actividad
+## Actividad y Código
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sr-Stroncio&show_icons=true&theme=starry&hide_border=true&bg_color=0B132B&title_color=E0A96D&icon_color=E0A96D&text_color=91A3B0" alt="Estadísticas Sr-Stroncio" />
+  <img src="https://metrics.lecoq.io/Sr-Stroncio?template=classic&base=header%2C+activity%2C+community&config.timezone=Europe%2FMadrid&theme=tokyonight&palette=midnight" alt="Métricas Sr-Stroncio" />
 </p>
 
-<br />
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sr-Stroncio/Sr-Stroncio/output/github-contribution-grid-snake-dark.svg" alt="Actividad en Github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sr-Stroncio&theme=tokyonight&hide_border=true&background=0B132B&ring=E0A96D&fire=E0A96D&currStreakNum=91A3B0" alt="Racha de commits Sr-Stroncio" />
 </p>
