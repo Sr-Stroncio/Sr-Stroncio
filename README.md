@@ -10,6 +10,10 @@
 
 <br>
 
+<p align="center">
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sr-Stroncio&show_icons=true&theme=highcontrast&hide_border=true&bg_color=111&title_color=C00&icon_color=C00&text_color=999" alt="Estadísticas Sr-Stroncio" />
+</p>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
@@ -57,11 +61,3 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<h3 align="center">📊 Actividad</h3>
-<p align="center">
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sr-Stroncio&show_icons=true&theme=highcontrast&hide_border=true&bg_color=111&title_color=C00&icon_color=C00&text_color=999" alt="Estadísticas Sr-Stroncio" />
-</p>
