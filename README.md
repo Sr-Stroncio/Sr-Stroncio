@@ -2,6 +2,16 @@
   <img src="https://capsule-render.vercel.app/type=Waving&color=111&height=180&section=header&text=SR-STRONCIO&fontSize=70&animation=fadeIn&fontColor=C00&fontAlignY=35&fontAlign=80" width="100%" />
 </p>
 
+<p align="center">
+  <br>
+  <font size="4" color="#999"><i>“Une immense espérance a traversé la terre, une immense espérance a traversé ma peau.”</i></font>
+  <br><br>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" height="3px" style="filter: hue-rotate(340deg) saturate(150%);" />
+</p>
+
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" align="center" width="220">
@@ -11,10 +21,6 @@
       <h3 align="left">Bitácora de Desarrollo</h3>
       <p align="left">
         Espacio personal dedicado al aprendizaje, la programación web y la experimentación en el desarrollo de videojuegos. Este perfil funciona como contenedor de proyectos propios y código en evolución.
-      </p>
-      <br>
-      <p align="left">
-        <i>“Une immense espérance a traversé la terre, une immense espérance a traversé ma peau.”</i>
       </p>
     </td>
   </tr>
