@@ -39,5 +39,9 @@ Actualmente cuento con un **Ciclo en Desarrollo Web** y me encuentro sumergiénd
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sr-Stroncio&show_icons=true&theme=gotham&hide_border=true" alt="Estadísticas de Sr-Stroncio" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sr-Stroncio&show_icons=true&theme=gotham&hide_border=true" alt="Estadísticas de Sr-Stroncio" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sr-Stroncio&theme=gotham" alt="Resumen de perfil Sr-Stroncio" />
 </p>
