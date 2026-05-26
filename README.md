@@ -1,5 +1,5 @@
 <div align="center">
-# Sr-Stroncio
+#Sr-Stroncio
 
 </div>
 
