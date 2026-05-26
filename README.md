@@ -1,4 +1,4 @@
-<h1 align="center">SrStroncio</h1>
+<h1 align="center">Sr-Stroncio</h1>
 <h3 align="center">une immense espérance a traversé la terre, une immense espérance a traversé ma peu</h3>
 
 - I’m currently studing **Tecnologías Interactivas**
