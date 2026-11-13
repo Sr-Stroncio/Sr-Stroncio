@@ -2,23 +2,23 @@
 
 # Sr-Stroncio
 
-</div>
+<br>
 
-<br><br>
-
-<table align="center" border="0" cellpadding="10" cellspacing="0">
+<table>
   <tr>
-    <td valign="middle" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sr-Stroncio&show_icons=true&theme=highcontrast&hide_border=true&bg_color=111&title_color=C00&icon_color=C00&text_color=999" alt="Estadísticas Sr-Stroncio" />
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sr-Stroncio&show_icons=true&theme=highcontrast&hide_border=true&bg_color=111111&title_color=CC0000&icon_color=CC0000&text_color=999999" alt="Estadísticas Sr-Stroncio" height="195" />
     </td>
-    <td valign="middle" align="center">
-      <img src="https://i.pinimg.com/736x/fe/56/e7/fe56e73516d17346f91fa32c52766c72.jpg" alt="Imagen Personal" style="height: 195px; width: auto; border-radius: 8px; border: 2px solid #C00; background-color: #111; padding: 5px;" />
+    <td align="center" valign="middle">
+      <img src="https://i.pinimg.com/736x/fe/56/e7/fe56e73516d17346f91fa32c52766c72.jpg" alt="Imagen Personal" height="195" />
     </td>
   </tr>
 </table>
 
-<br><br>
+<br>
 
 <p align="center">
-  <font size="4" color="#999"><i>“Une immense espérance a traversé la terre, une immense espérance a traversé ma peau.”</i></font>
+  <em>“Une immense espérance a traversé la terre, une immense espérance a traversé ma peau.”</em>
 </p>
+
+</div>
